@@ -18,14 +18,6 @@ const d = {
 			"pass": "Free to copy",
 			"percentToQualify": "40%",
 			"verificationVid": "https://www.youtube.com/watch?v=m1HwqTttB1w",
-			
-			"name": "The Sarcassion",
-			"author": "PinkGuyGMD",
-			"more": "none",
-			"id": "119967955",
-			"pass": "Free to copy",
-			"percentToQualify": "40%",
-			"verificationVid": "https://www.youtube.com/watch?v=m1HwqTttB1w",
 /*for legacy list add the word "legacy" behind the word key right away: "legacykey"*/
 			"key": 0
 		},
